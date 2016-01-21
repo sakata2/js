@@ -1,0 +1,20 @@
+<html>
+<body>
+
+
+https://github.com/sakata2/js
+
+
+<pre>
+mkdir js
+git init
+c:\user\vc930308\
+
+1.文字コードに関わる開発ガイドライン
+2.JUnitハンズオンセミナ テキスト
+3.Spring & iBATISハンズオンセミナ 講義テキスト
+4.Strutsハンズオンセミナ
+
+</pre>
+</body>
+</html>
