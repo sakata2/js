@@ -332,5 +332,22 @@ DEF keyboad Transform {
 				}
 			]
 		}
+
+		#KEY TOP
+		Transform { 
+			translation 0 10 6
+			children [
+				Shape {
+					appearance Appearance {
+						material Material {
+							diffuseColor 1 1 1
+							emissiveColor 0.5 0.5 0.5
+						}
+					}
+					geometry Box {size 150 45 1}
+				}
+			]
+		}
+
 	]
 }
