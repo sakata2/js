@@ -10,6 +10,8 @@ mkdir js
 git init
 c:\user\vc930308\
 
+TERASOLUNA認定アーキテクト試験
+
 1.文字コードに関わる開発ガイドライン
 2.JUnitハンズオンセミナ テキスト
 3.Spring & iBATISハンズオンセミナ 講義テキスト
