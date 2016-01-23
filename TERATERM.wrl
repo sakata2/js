@@ -8,26 +8,6 @@ Viewpoint {
 	position -0 -30 350
 }
 
-DEF Light1 PointLight {
-	intensity 0.8
-	color 0.8 0.9 1.0
-	location -10 80 10
-	radius 100
-	attenuation 0.01 0.001 0
-}
-
-DEF SpotL SpotLight {
-	ambientIntensity 0
-	attenuation 1 0 0
-	beamWidth 1.570796
-	color 1 1 1
-	cutOffAngle 0.85398
-	direction 0 0 -1
-	intensity 1
-	location -8 2 6
-	radius 80
-}
-
 DEF T Transform {
 	children [
 		#Back ground Yellow
